@@ -1,12 +1,12 @@
 Hi 👋, I'm Tolley
 - 🇬🇧 I'm Bri'ish
-- ❤️ I'm currrently working on [Nezz](https://github.com/TolleyLikesRice/Nezz)
+- ❤️ I'm currrently working on [Nezz](https://github.com/TolleyLikesRice/Nezz) & [nTree](https://github.com/SystemNezz/nTree)
 - 📝 I rarley write stuff, although it's mostly useless, on [my blog](https://blog.tolley.dev)
 - 💻 I mainly use NodeJS
 - 💻 I'm also familiar with C# and Python
 - 🐧 I love Linux, although daily drive Windows with a Linux VM for developing
 - 🛠️ I run a few servers and am familiar with nginx, docker, and other systems
-- You can checkout [my website.](https://tolley.dev)
+- 📄 I have a bit more info about myself on [my website.](https://tolley.dev)
 
 Message me if you want anything hosted.
 
