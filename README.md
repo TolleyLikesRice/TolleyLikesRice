@@ -1,14 +1,9 @@
 Hi 👋, I'm Tolley
 - 🇬🇧 I'm Bri'ish
-- ❤️ I'm currrently working on [Nezz](https://github.com/TolleyLikesRice/Nezz) & [nTree](https://github.com/SystemNezz/nTree)
-- 📝 I rarley write stuff, although it's mostly useless, on [my blog](https://blog.tolley.dev)
-- 💻 I mainly use NodeJS
-- 💻 I'm also familiar with C# and Python
-- 🐧 I love Linux, although daily drive Windows with a Linux VM for developing
-- 🛠️ I run a few servers and am familiar with nginx, docker, and other systems
-- 📄 I have a bit more info about myself on [my website.](https://tolley.dev)
-
-Message me if you want anything hosted.
+- ❤️ I'm currrently working on [FlyDiary](https://github.com/TolleyLikesRice/FlyDiary)
+- 📝 I sometimes put stuff on [my blog](https://blog.tolley.dev)
+- ✈️ I'm currently a student pilot
+- 📄 I have a bit more info about my skills, and past projects on [my website](https://tolley.dev).
 
 You can reach me on:
 - Discord: Tolley#3216
